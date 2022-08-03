@@ -69,7 +69,7 @@
 
 <p align="center">
 
-  <a href="www.linkedin.com/in/carlos-andres-ortiz-programmer">
+  <a href="https://www.linkedin.com/in/carlos-andres-ortiz-programmer/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
   
